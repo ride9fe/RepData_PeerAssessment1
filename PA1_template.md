@@ -168,3 +168,5 @@ Both  mean and median are higher values in the samples. Note that in the sample 
     
     ![plot of chunk timeseriesrepeat](figure/timeseriesrepeat-1.png) 
 
+
+ 

@@ -123,3 +123,4 @@ Both  mean and median are higher values in the samples. Note that in the sample 
     ggplot(mean_steps_by_interval_ww, aes(interval,mean_steps)) + geom_line() + facet_grid(day_of_week ~ .) + xlab("5-minute interval") + ylab("Average number of steps taken")
     ```
 
+
